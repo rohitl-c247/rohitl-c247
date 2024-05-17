@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Rohit (GitHub: rohitC247)
+- 👀 I’m interested in exploring new technologies and solving interesting problems.
+- 🌱 I’m currently learning machine learning and data science.
+- 💞️ I’m looking to collaborate on open-source projects related to web development and data analysis.
+- 📫 You can reach me via email at [rohit.l@chapter247.com](mailto:rohit.l@chapter247.com) or connect with me on LinkedIn: [linkedin.com/in/rohit-lalwany](https://linkedin.com/in/rohit-lalwany).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy long drives with my family!
